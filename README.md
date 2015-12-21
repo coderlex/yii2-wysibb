@@ -1,5 +1,5 @@
 # yii2-wysibb
-Implements WysiBB visual editor http://www.wysibb.com/ to Yii2 application.
+Implements WysiBB visual editor http://www.wysibb.com/ to Yii2 applications.
 More about WysiBB read at http://www.wysibb.com/
 
 ## Install via composer
