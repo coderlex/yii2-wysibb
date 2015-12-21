@@ -1,7 +1,7 @@
 {
-    "name": "coderlex/yii2-imagine",
+    "name": "coderlex/yii2-wysibb",
     "type": "yii2-extension",
-    "description": "Implements WysiBB to your Yii2 application",
+    "description": "Implements WysiBB to Yii2 applications",
     "keywords": ["yii2", "imagine", "image", "helper"],
     "license": "BSD-3-Clause",
     "authors": [
